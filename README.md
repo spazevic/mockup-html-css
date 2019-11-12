@@ -2,7 +2,7 @@
 
 ## Learning Objectives
 
-- Use CSS to style a web page according to a mockup.
+Use CSS to style a web page according to a mockup.
 
 ## Introduction
 
@@ -25,7 +25,8 @@ Using the provided HTML, add the CSS necessary to make the page resemble the moc
 - You will not need to make any edits to the HTML.
 - Don't leave anything on the page unstyled — even if your CSS isn't perfect.
 - Also, in case you missed it above... **TURN IN THIS ASSIGNMENT EVEN IF YOU DO NOT FINISH IT**
-  - You can always make subsequent changes later after we review the assignment!
+  - Your first commit and pull request is due prior to 9am on the day it is due!
+  - You can always make subsequent changes/commits later after we review the assignment! But the first commit needs to have a timestamp before 9am!
 
 **BONUS**
 
