@@ -25,17 +25,19 @@ This [starter code](starter-code) contains all the HTML you need to complete thi
 The final design for the blog:
 ![travel blog](assets/travel-blog.png)
 
+<!--
 ## Hungry for More?
 Here are some additional exercises to practice on your own!
 
-#### Beginner
-- [Portfolio Blog](additional-labs/beginner/portfolio-blog)
+  #### Beginner
+  - [Portfolio Blog](additional-labs/beginner/portfolio-blog)
 
-#### Intermediate
-- [Design Portfolio](additional-labs/intermediate/portfolio-design)
-- [Hippie Portfolio](additional-labs/intermediate/portfolio-hippy)
+  #### Intermediate
+  - [Design Portfolio](additional-labs/intermediate/portfolio-design)
+  - [Hippie Portfolio](additional-labs/intermediate/portfolio-hippy)
 
-#### Advanced
-- [Portfolio Blog](additional-labs/advanced/moonrise-kingdom)
+  #### Advanced
+  - [Portfolio Blog](additional-labs/advanced/moonrise-kingdom)
 
 > Instructor Note: Remove the solution code before passing this lab on to students.
+-->
